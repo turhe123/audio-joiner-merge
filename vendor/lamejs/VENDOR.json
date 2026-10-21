@@ -1,0 +1,10 @@
+{
+  "name": "lamejs",
+  "version": "1.2.1",
+  "license": "LGPL-3.0",
+  "entry": "vendor/lamejs/lame.min.js (classic script, global lamejs; MP3 encoding)",
+  "sources": {
+    "lame.min.js": "https://cdn.jsdelivr.net/npm/lamejs@1.2.1/lame.min.js",
+    "LICENSE": "https://cdn.jsdelivr.net/npm/lamejs@1.2.1/LICENSE"
+  }
+}
